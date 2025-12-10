@@ -1,0 +1,36 @@
+KTS VOLLEY SCOREBOARD - RICONOSCIMENTO SOFTWARE OPEN SOURCE
+
+Il Software KTS Volley Scoreboard utilizza componenti software di terze parti rilasciati sotto licenze Open Source permissive (come MIT, ISC e BSD).
+
+In conformità con i requisiti di tali licenze, che permettono l'uso in software proprietario a condizione che gli avvisi di copyright e i testi di licenza vengano inclusi, forniamo di seguito i riconoscimenti e il testo della Licenza MIT (la licenza più comune tra i componenti utilizzati, inclusi Electron, Node.js, express, socket.io e ip).
+
+--- COMPONENTI CHIAVE SOGGETTI A LICENZA MIT/BSD ---
+
+Il prodotto include software derivato dai seguenti progetti:
+* Electron (Licenze MIT/BSD, Copyright The Chromium Authors, The Electron Authors, Node.js Authors)
+* Node.js (Licenza MIT)
+* express (Licenza MIT)
+* socket.io (Licenza MIT)
+* ip (Licenza MIT)
+
+--- INIZIO TESTO LICENZA MIT/ISC ---
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--- FINE TESTO LICENZA MIT/ISC ---

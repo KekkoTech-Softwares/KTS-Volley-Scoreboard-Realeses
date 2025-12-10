@@ -1,0 +1,14 @@
+INFORMAZIONI NECESSARIE PER L'INSTALLAZIONE DI KTS VOLLEY SCOREBOARD
+
+REQUISITI DI SISTEMA MINIMI:
+* Sistema Operativo: Windows 10 o successivi (64-bit).
+* CPU: Processore Dual-Core o superiore.
+* RAM: 4 GB di RAM o superiore.
+* Spazio su Disco: Almeno 200 MB di spazio libero per l'installazione.
+
+INSTALLAZIONE:
+L'installazione guiderà l'utente attraverso i passaggi necessari. L'installazione richiede i diritti di Amministratore per completare l'operazione e installare le librerie richieste da Windows.
+Si prega di chiudere eventuali altre istanze dell'applicazione prima di procedere all'aggiornamento o alla reinstallazione.
+
+IMPORTANTE:
+L'uso di questa applicazione è regolato dal Contratto di Licenza con l'Utente Finale (EULA) incluso in questo setup.
