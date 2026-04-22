@@ -58,4 +58,4 @@ L'uso del software è regolato dal **Contratto di Licenza con l'Utente Finale (E
 
 ***
 
-*Copyright © 2026 KekkoTech Softwares - Tutti i diritti riservati.*
+*Copyright © 2026 KekkoTech Softwares. Tutti i diritti riservati.*
