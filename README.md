@@ -52,9 +52,9 @@ L'uso del software è regolato dal **Contratto di Licenza con l'Utente Finale (E
 
 | Tipologia | Email |
 | :--- | :--- |
-| **Supporto Tecnico** (Installazione, bug, malfunzionamenti) | `support@kekkotech.it` |
-| **Feedback e Suggerimenti** (Nuove funzionalità, commenti) | `feedback@kekkotech.it` |
-| **Questioni Legali/Licenze** | `support@kekkotech.it` |
+| **Supporto Tecnico** (Installazione, bug, malfunzionamenti) | `support.kekkotech.com` |
+| **Feedback e Suggerimenti** (Nuove funzionalità, commenti) | `support.kekkotech.com` |
+| **Questioni Legali/Licenze** | `privacy@kekkotech.it` |
 
 ***
 
